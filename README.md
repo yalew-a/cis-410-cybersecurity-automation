@@ -26,3 +26,13 @@ This repository is my CIS 410: Cybersecurity Automation portfolio. In this cours
 ## Fun Fact
 
 I am passionate about cybersecurity and currently working on building my skills for a future career in network security and system protection.
+
+## My Week 2 Infrastructure
+
+ 
+
+Runner VM: wakjira-runner
+
+Runner IP: 192.168.1.186
+
+Pipeline status: [![Hello Pipeline](https://github.com/YOUR-USERNAME/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml/badge.svg)](https://github.com/YOUR-USERNAME/cis-410-cybersecurity-automation/actions/workflows/hello-pipeline.yml)
