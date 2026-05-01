@@ -1,4 +1,4 @@
-services:
+services:services:
   web:
     build: .
     container_name: cis410-web
@@ -20,3 +20,5 @@ services:
       - COMMIT_SHA=${GITHUB_SHA:-local}
       - BRANCH=${GITHUB_REF_NAME:-main}
       - WORKFLOW=deploy-${ENVIRONMENT:-dev}.yml
+
+ 
